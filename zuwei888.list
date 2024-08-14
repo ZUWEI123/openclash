@@ -1,3 +1,6 @@
 ﻿# 域名关键字匹配
 DOMAIN-KEYWORD,bt4gprx
 DOMAIN-KEYWORD,bt4g
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,bt4g.org
